@@ -17,7 +17,7 @@ I've created the app to be able to quickly find a worksheet (via list or search 
   ![](/images/Excel_1.jpg)
 
 
-  2. Click on Load button to populate the listbox (might take some time depending on the total number of worksheets). The list will be formatted as <pre>"worksheet name  -  workbook name"</pre> (note double space surrounding dash)
+  2. Click on Load button to populate the listbox (might take some time depending on the total number of worksheets). The list will contain worksheet name and workbook name separated by a dash surrounded by double spaces.
   
   ![](/images/Excel_2.jpg)
 
