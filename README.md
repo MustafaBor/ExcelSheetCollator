@@ -14,20 +14,20 @@ I've created the app to be able to quickly find a worksheet (via list or search 
 # Usage
   1. Choose directory where the excel workbooks are located (default set to C:\\) by clicking on the `Select Folder` button
   
-  <img src="/images/Excel_1.jpg" alt="alt text" width="600" style="text-align:center;">
+  <img src="/images/Excel_1.jpg" alt="Excel Image 1" width="650">
 
 
   2. Click on Load button to populate the listbox (might take some time depending on the total number of worksheets). The list will contain worksheet name and workbook name separated by a dash surrounded by double spaces.
   
-  ![](/images/Excel_2.jpg)
+  <img src="/images/Excel_2.jpg" alt="Excel Image 2" width="650">
 
   3. Enter keyword in the textbox to search for specific worksheet and click on Search button. This will populate right listbox with all worksheets that contain the keyword.
   
-  ![](/images/Excel_3.jpg)
+  <img src="/images/Excel_3.jpg" alt="Excel Image 3" width="650">
 
   4. Single-click on the item from the refined list in the right listbox to open the relevant workbook and worksheet. This will open the excel file and automatically select the worksheet tab chosen.
   
-  ![](/images/Excel_4.jpg)
+  <img src="/images/Excel_4.jpg" alt="Excel Image 4" width="650">
 
 # Known/Potential Issues
   - Occassionally excel files launch after system reboot (only after first reboot).
