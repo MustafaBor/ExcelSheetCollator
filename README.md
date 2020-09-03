@@ -21,8 +21,7 @@ I've created the app to be able to quickly find a worksheet (via list or search 
   
   ![](/images/Excel_2.jpg)
 
-
-    3. Enter keyword in the textbox to search for specific worksheet and click on Search button. This will populate right listbox with all worksheets that contain the keyword.
+  3. Enter keyword in the textbox to search for specific worksheet and click on Search button. This will populate right listbox with all worksheets that contain the keyword.
   
   ![](/images/Excel_3.jpg)
 
