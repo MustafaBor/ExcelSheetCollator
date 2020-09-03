@@ -12,19 +12,22 @@ I've created the app to be able to quickly find a worksheet (via list or search 
   - Microsoft.Office.Interop.Excel Assembly
 
 # Usage
-  1. Choose directory where the excel workbooks are located (default set to C:\\) by clicking on the `Select Folder` button
+  **1.** Choose directory where the excel workbooks are located (default set to C:\\) by clicking on the `Select Folder` button
   
   ![](/images/Excel_1.jpg)
   
-  2. Click on Load button to populate the listbox (might take some time depending on the total number of worksheets). The list will be formatted as "worksheet name  -  workbook name" (note double space surrounding dash)
+  
+  **2.** Click on Load button to populate the listbox (might take some time depending on the total number of worksheets). The list will be formatted as "worksheet name  -  workbook name" (note double space surrounding dash)
   
   ![](/images/Excel_2.jpg)
   
-  3.Enter keyword in the textbox to search for specific worksheet and click on Search button. This will populate right listbox with all worksheets that contain the keyword.
+  
+  **3.** Enter keyword in the textbox to search for specific worksheet and click on Search button. This will populate right listbox with all worksheets that contain the keyword.
   
   ![](/images/Excel_3.jpg)
   
-  4. Single-click on the item from the refined list in the right listbox to open the relevant workbook and worksheet. This will open the excel file and automatically select the worksheet tab chosen.
+  
+  **4.** Single-click on the item from the refined list in the right listbox to open the relevant workbook and worksheet. This will open the excel file and automatically select the worksheet tab chosen.
   
   ![](/images/Excel_4.jpg)
 
