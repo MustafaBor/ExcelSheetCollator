@@ -14,8 +14,7 @@ I've created the app to be able to quickly find a worksheet (via list or search 
 # Usage
   1. Choose directory where the excel workbooks are located (default set to C:\\) by clicking on the `Select Folder` button
   
-  ![](/images/Excel_1.jpg){:height="50%" width="50%"}
-  <img src="/images/Excel_1.jpg" alt="alt text" width="100" height="50">
+  <img src="/images/Excel_1.jpg" alt="alt text" width="300">
 
 
   2. Click on Load button to populate the listbox (might take some time depending on the total number of worksheets). The list will contain worksheet name and workbook name separated by a dash surrounded by double spaces.
